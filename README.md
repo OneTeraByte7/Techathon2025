@@ -1,6 +1,6 @@
 # 🏥 Affordable Health Tracking System
 
-![Techathon 2025](https://img.shields.io/badge/Techathon-2025-blue.svg) ![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Techathon 2025](https://img.shields.io/badge/Techathon-2025-blue.svg) ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
 ## **Trophies**
 [![trophy](https://github-profile-trophy.vercel.app/?username=OneTeraByte7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
