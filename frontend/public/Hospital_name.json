@@ -1,0 +1,247 @@
+[
+    {
+        "Hospital Name": "Apollo Hospitals",
+        "Location": "Chennai",
+        "Disease": "Cardiology"
+    },
+    {
+        "Hospital Name": "Fortis Hospital",
+        "Location": "Mumbai",
+        "Disease": "Orthopedics"
+    },
+    {
+        "Hospital Name": "AIIMS",
+        "Location": "Delhi",
+        "Disease": "Neurology"
+    },
+    {
+        "Hospital Name": "Manipal Hospital",
+        "Location": "Bangalore",
+        "Disease": "Pediatrics"
+    },
+    {
+        "Hospital Name": "Medanta - The Medicity",
+        "Location": "Gurgaon",
+        "Disease": "Oncology"
+    },
+    {
+        "Hospital Name": "Narayana Health",
+        "Location": "Kolkata",
+        "Disease": "Cardiac Surgery"
+    },
+    {
+        "Hospital Name": "Kokilaben Dhirubhai Ambani Hospital",
+        "Location": "Mumbai",
+        "Disease": "Gastroenterology"
+    },
+    {
+        "Hospital Name": "Max Super Speciality Hospital",
+        "Location": "Delhi",
+        "Disease": "Nephrology"
+    },
+    {
+        "Hospital Name": "Artemis Hospital",
+        "Location": "Gurgaon",
+        "Disease": "Orthopedics"
+    },
+    {
+        "Hospital Name": "Jaslok Hospital",
+        "Location": "Mumbai",
+        "Disease": "Endocrinology"
+    },
+    {
+        "Hospital Name": "Sri Ramachandra Medical Centre",
+        "Location": "Chennai",
+        "Disease": "Pulmonology"
+    },
+    {
+        "Hospital Name": "Ruby Hall Clinic",
+        "Location": "Pune",
+        "Disease": "Neurology"
+    },
+    {
+        "Hospital Name": "Christian Medical College",
+        "Location": "Vellore",
+        "Disease": "Infectious Diseases"
+    },
+    {
+        "Hospital Name": "Lilavati Hospital",
+        "Location": "Mumbai",
+        "Disease": "Cardiology"
+    },
+    {
+        "Hospital Name": "Global Hospitals",
+        "Location": "Hyderabad",
+        "Disease": "Liver Transplant"
+    },
+    {
+        "Hospital Name": "Wockhardt Hospitals",
+        "Location": "Mumbai",
+        "Disease": "Spinal Surgery"
+    },
+    {
+        "Hospital Name": "Columbia Asia Hospital",
+        "Location": "Bangalore",
+        "Disease": "Pediatrics"
+    },
+    {
+        "Hospital Name": "BLK Super Speciality Hospital",
+        "Location": "Delhi",
+        "Disease": "Oncology"
+    },
+    {
+        "Hospital Name": "Amrita Institute of Medical Sciences",
+        "Location": "Kochi",
+        "Disease": "Cardiac Surgery"
+    },
+    {
+        "Hospital Name": "Sir Ganga Ram Hospital",
+        "Location": "Delhi",
+        "Disease": "Nephrology"
+    },
+    {
+        "Hospital Name": "Sahyadri Hospitals",
+        "Location": "Pune",
+        "Disease": "Orthopedics"
+    },
+    {
+        "Hospital Name": "Yashoda Hospitals",
+        "Location": "Hyderabad",
+        "Disease": "Gastroenterology"
+    },
+    {
+        "Hospital Name": "Breach Candy Hospital",
+        "Location": "Mumbai",
+        "Disease": "Gynecology"
+    },
+    {
+        "Hospital Name": "Narayana Health",
+        "Location": "Bangalore",
+        "Disease": "Cardiology"
+    },
+    {
+        "Hospital Name": "KIMS Hospitals",
+        "Location": "Hyderabad",
+        "Disease": "Neurology"
+    },
+    {
+        "Hospital Name": "PSG Hospitals",
+        "Location": "Coimbatore",
+        "Disease": "Pediatrics"
+    },
+    {
+        "Hospital Name": "Rajiv Gandhi Cancer Institute",
+        "Location": "Delhi",
+        "Disease": "Oncology"
+    },
+    {
+        "Hospital Name": "Care Hospitals",
+        "Location": "Hyderabad",
+        "Disease": "Cardiac Surgery"
+    },
+    {
+        "Hospital Name": "Fortis Escorts Heart Institute",
+        "Location": "Delhi",
+        "Disease": "Cardiology"
+    },
+    {
+        "Hospital Name": "Aditya Birla Memorial Hospital",
+        "Location": "Pune",
+        "Disease": "Orthopedics"
+    },
+    {
+        "Hospital Name": "Rainbow Children's Hospital",
+        "Location": "Hyderabad",
+        "Disease": "Pediatrics"
+    },
+    {
+        "Hospital Name": "Tata Memorial Hospital",
+        "Location": "Mumbai",
+        "Disease": "Oncology"
+    },
+    {
+        "Hospital Name": "Indraprastha Apollo Hospitals",
+        "Location": "Delhi",
+        "Disease": "Nephrology"
+    },
+    {
+        "Hospital Name": "MIOT International",
+        "Location": "Chennai",
+        "Disease": "Orthopedics"
+    },
+    {
+        "Hospital Name": "Sakra World Hospital",
+        "Location": "Bangalore",
+        "Disease": "Neurology"
+    },
+    {
+        "Hospital Name": "Jupiter Hospital",
+        "Location": "Mumbai",
+        "Disease": "Cardiology"
+    },
+    {
+        "Hospital Name": "Aster Medcity",
+        "Location": "Kochi",
+        "Disease": "Gastroenterology"
+    },
+    {
+        "Hospital Name": "Nanavati Super Speciality Hospital",
+        "Location": "Mumbai",
+        "Disease": "Oncology"
+    },
+    {
+        "Hospital Name": "Shalby Hospitals",
+        "Location": "Ahmedabad",
+        "Disease": "Orthopedics"
+    },
+    {
+        "Hospital Name": "Hiranandani Hospital",
+        "Location": "Mumbai",
+        "Disease": "Cardiology"
+    },
+    {
+        "Hospital Name": "Kauvery Hospital",
+        "Location": "Chennai",
+        "Disease": "Neurology"
+    },
+    {
+        "Hospital Name": "Columbia Asia Hospital",
+        "Location": "Pune",
+        "Disease": "Pediatrics"
+    },
+    {
+        "Hospital Name": "MaxCure Hospitals",
+        "Location": "Hyderabad",
+        "Disease": "Oncology"
+    },
+    {
+        "Hospital Name": "Paras Hospitals",
+        "Location": "Gurgaon",
+        "Disease": "Cardiac Surgery"
+    },
+    {
+        "Hospital Name": "Sterling Hospitals",
+        "Location": "Ahmedabad",
+        "Disease": "Nephrology"
+    },
+    {
+        "Hospital Name": "KIMS Hospitals",
+        "Location": "Secunderabad",
+        "Disease": "Orthopedics"
+    },
+    {
+        "Hospital Name": "Apollo Hospitals",
+        "Location": "Hyderabad",
+        "Disease": "Cardiology"
+    },
+    {
+        "Hospital Name": "Fortis Hospital",
+        "Location": "Kolkata",
+        "Disease": "Neurology"
+    },
+    {
+        "Hospital Name": "Manipal Hospital",
+        "Location": "Jaipur",
+        "Disease": "Pediatrics"
+    }
+]
